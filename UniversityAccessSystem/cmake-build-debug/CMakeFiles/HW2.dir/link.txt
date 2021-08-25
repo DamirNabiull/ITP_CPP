@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HW2.dir/main.cpp.o CMakeFiles/HW2.dir/persons.cpp.o CMakeFiles/HW2.dir/rooms.cpp.o CMakeFiles/HW2.dir/generator.cpp.o  -o HW2 
