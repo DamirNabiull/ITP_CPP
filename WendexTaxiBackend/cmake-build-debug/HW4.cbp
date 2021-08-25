@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HW4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dale/Documents/PSS_2/HW4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dale/Documents/PSS_2/HW4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dale/Documents/PSS_2/HW4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HW4">
+				<Option output="/home/dale/Documents/PSS_2/HW4/cmake-build-debug/HW4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dale/Documents/PSS_2/HW4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HW4/fast">
+				<Option output="/home/dale/Documents/PSS_2/HW4/cmake-build-debug/HW4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dale/Documents/PSS_2/HW4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dale/Documents/PSS_2/HW4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Admin.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Admin.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/AdminGateway.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/AdminGateway.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Car.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Car.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Characters.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Characters.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Driver.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Driver.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/DriverGateway.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/DriverGateway.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Gateway.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Gateway.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Passenger.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/Passenger.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/PassengerGateway.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/PassengerGateway.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/main.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/newOrder.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/newOrder.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/order.cpp">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/order.h">
+			<Option target="HW4"/>
+		</Unit>
+		<Unit filename="/home/dale/Documents/PSS_2/HW4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
